@@ -1,0 +1,5 @@
+config.php
+
+#Ignored files
+/vendor/
+node_modules/
